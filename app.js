@@ -15,4 +15,4 @@ app.use('/', router);
 app.use(myErrorLogger);
 
 app.listen(3000);
-console.log("Server listening in port 3000");
+console.log("Server started for Express Wallet at 3000");
