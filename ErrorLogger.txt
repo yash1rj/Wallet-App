@@ -1,0 +1,6 @@
+Wed Aug 21 2019 - Error: User does not exist
+    at dbLayer.getUser.then (F:\PROJECTS\Wallet-App\service\account.js:15:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Wed Aug 21 2019 - Error: User does not exist
+    at dbLayer.getUser.then (F:\PROJECTS\Wallet-App\service\account.js:15:23)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
